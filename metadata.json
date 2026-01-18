@@ -1,0 +1,5 @@
+{
+  "name": "HandyTable",
+  "description": "An aesthetic tool to create hand-drawn style tables using AI or manual input. Export your sketchy data visualizations as SVG.",
+  "requestFramePermissions": []
+}
